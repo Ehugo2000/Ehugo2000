@@ -1,5 +1,7 @@
-## Skills: HTML - CSS - JS - Ruby - React - Ruby on Rails
-
+## Skills 
+💻 JS - Ruby - Ruby on Rails
+👨‍🎨 HTML - CSS - React
+📱 React Native
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehugo2000)](https://github.com/anuraghazra/github-readme-stats)
