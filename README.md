@@ -1,6 +1,3 @@
-# Welcome
-
-
 ## Skills: HTML - CSS - JS - Ruby - React - Ruby on Rails
 
 
