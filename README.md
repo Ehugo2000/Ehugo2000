@@ -1,6 +1,6 @@
 ## Skills 
 * 💻 JS -- Ruby -- Ruby on Rails
-* 👨‍🎨 HTML -- CSS -- React
+* 👨‍🎨 HTML -- CSS -- React -- Figma
 * 📱 React Native
 * ⚙️ Cypress
 <br>
