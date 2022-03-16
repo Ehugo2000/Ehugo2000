@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ehugo2000&label=Profile%20views&color=0e75b6&style=flat" alt="Ehugo2000" /> </p>
 
 - 🌱 I’m currently learning **Node.js and express**
 
@@ -16,3 +15,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehugo2000&show_icons=true)  
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ehugo2000&label=Profile%20views&color=0e75b6&style=flat" alt="Ehugo2000" /> </p>
