@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 
-- 🌱 I’m currently learning **Node.js and express** 
+- 🌱 I’m currently learning **Node.js and express** at IT-högskolan. 
+- 📫 **erik.hugoson@iths.se**
+<br>
 
 ## Skills 
 * 💻 JS / Ruby / Ruby on Rails
@@ -8,11 +10,13 @@
 * 📱 React Native / Vue
 * ⚙️ Cypress / RSpec
 <br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehugo2000&show_icons=true&locale=en&layout=compact" alt="Ehugo2000" /></p>
+<br>
 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehugo2000&show_icons=true&locale=en&layout=compact" alt="Ehugo2000"
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ehugo2000&show_icons=true&locale=en" alt="Ehugo2000" /></p>
 <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ehugo2000&show_icons=true&locale=en" alt="Ehugo2000" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehugo2000&" alt="Ehugo2000" /></p>
+
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehugo2000&" alt="Ehugo2000" /></p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ehugo2000&label=Profile%20views&color=0e75b6&style=flat" alt="Ehugo2000" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=Ehugo2000&label=Profile%20views&color=0e75b6&style=flat" alt="Ehugo2000" /> </p>
