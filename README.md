@@ -6,7 +6,7 @@
 
 ## Skills 
 * 💻 JS / Ruby / Ruby on Rails
-* 👨‍🎨 HTML / CSS / React / Figma
+* 👨‍🎨 HTML / CSS / SASS / Figma
 * 📱 React Native / Vue
 * :minidisc: NodeJS / Express
 * ⚙️ Cypress / RSpec
