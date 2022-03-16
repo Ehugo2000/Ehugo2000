@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 
 - :books: I’m currently learning **Node.js** and **Express** at IT-högskolan.
-- **-Looking for LIA-plats fall of 2022-**
+- **-Looking for an exciting LIA-plats fall of 2022-**
 <br>
 
 ## Skills 
