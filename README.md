@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 
-- 🌱 I’m currently learning **Node.js and Express** at IT-högskolan.
+- :books: I’m currently learning **Node.js and Express** at IT-högskolan.
 - 📫 **erik.hugoson@iths.se** Looking for LIA-plats fall of 2022.
 <br>
 
