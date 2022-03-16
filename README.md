@@ -8,6 +8,7 @@
 * 💻 JS / Ruby / Ruby on Rails
 * 👨‍🎨 HTML / CSS / React / Figma
 * 📱 React Native / Vue
+* :minidisc: NodeJS / Express
 * ⚙️ Cypress / RSpec
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehugo2000&show_icons=true&locale=en&layout=compact" alt="Ehugo2000" /></p>
