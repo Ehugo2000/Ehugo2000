@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 
-- 🌱 I’m currently learning **Node.js and express**
+- 🌱 I’m currently learning **Node.js and express** 
 
 ## Skills 
 * 💻 JS / Ruby / Ruby on Rails
@@ -9,7 +9,7 @@
 * ⚙️ Cypress / RSpec
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehugo2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](src="https://github-readme-stats.vercel.app/api/top-langs?username=Ehugo2000&show_icons=true&locale=en&layout=compact" alt="Ehugo2000")
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehugo2000&show_icons=true)  
